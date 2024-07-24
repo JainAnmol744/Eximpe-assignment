@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eximpe-assignment/static/css/main.c848a42e.css",
+    "main.js": "/Eximpe-assignment/static/js/main.7e7f182a.js",
+    "static/js/453.09169f6d.chunk.js": "/Eximpe-assignment/static/js/453.09169f6d.chunk.js",
+    "index.html": "/Eximpe-assignment/index.html",
+    "main.c848a42e.css.map": "/Eximpe-assignment/static/css/main.c848a42e.css.map",
+    "main.7e7f182a.js.map": "/Eximpe-assignment/static/js/main.7e7f182a.js.map",
+    "453.09169f6d.chunk.js.map": "/Eximpe-assignment/static/js/453.09169f6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c848a42e.css",
+    "static/js/main.7e7f182a.js"
+  ]
+}
